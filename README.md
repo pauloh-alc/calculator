@@ -3,7 +3,7 @@
 
 Calculadora básica - desenvolvida seguindo a seção 3: projeto calculadora, do "curso de React do Leonardo Moura Litão"
 
-![Screenshot](img/screenshot.png)
+![Screenshot](src/img/screenshot.png)
 
 ## Tech
 
